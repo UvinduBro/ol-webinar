@@ -1,13 +1,13 @@
 // Function to handle the conference button click
 function joinConferenceCall() {
     // Add your code here to join the conference call
-    window.location.href = "https://example.com/conference-call"; // Replace with your conference call link
+    window.location.href = "https://meet.google.com/yon-nhtj-bnz"; // Replace with your conference call link
   }
   
   // Function to handle the WhatsApp button click
   function joinWhatsAppGroup() {
     // Add your code here to join the WhatsApp group
-    window.location.href = "https://example.com/whatsapp-group"; // Replace with your WhatsApp group link
+    window.location.href = "https://chat.whatsapp.com/FqDqJFRaNh58qa4LqL5iJz"; // Replace with your WhatsApp group link
   }
   
   // Attach click event listeners to the buttons
