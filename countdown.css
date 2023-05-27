@@ -1,0 +1,24 @@
+.countdown-wrapper {
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 339px;
+    flex-wrap: inherit;
+  }
+  
+  .countdown-item {
+    text-align: center;
+  }
+  
+  .countdown-item span {
+    display: block;
+  }
+  
+  #days,
+  #hours,
+  #minutes,
+  #seconds {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
